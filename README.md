@@ -14,6 +14,8 @@
 
 </div>
 
+![Enterprise Analytics Screenshot](screenshot.png)
+
 ---
 
 An enterprise-grade analytics platform featuring real-time KPIs, AI-powered predictions using linear regression, and interactive data visualizations built with Next.js and Recharts.
